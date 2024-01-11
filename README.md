@@ -1,2 +1,2 @@
-# daily-challenge
-Daily coding challenge
+# Daily coding challenge
+This repo contains my personal solutions from daily coding problem.
