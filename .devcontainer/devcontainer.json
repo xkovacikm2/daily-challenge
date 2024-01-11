@@ -9,11 +9,9 @@
 			"extensions": [
 				"golang.go",
 				"GitHub.copilot",
+				"kahole.magit",
 				"VSpaceCode.vspacecode",
-				"vscodevim.vim",
-				"VSpaceCode.whichkey",
-				"bodil.file-browser",
-				"kahole.magit"
+				"vscodevim.vim"
 			]
 		}
 	}
