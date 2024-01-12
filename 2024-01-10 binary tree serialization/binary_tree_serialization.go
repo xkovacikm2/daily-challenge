@@ -17,7 +17,7 @@ func main() {
 	root := TreeNode{
 		Val: 0,
 		Left: &TreeNode{
-			Val: 1,
+			Val:  1,
 			Left: nil,
 			Right: &TreeNode{
 				Val: 4,
@@ -41,7 +41,7 @@ func main() {
 
 	// Checking if the deserialized tree is correct
 	if deserialized_root.Left.Right.Val == 4 &&
-		deserialized_root.Right.Left.Left.Val == 11{
+		deserialized_root.Right.Left.Left.Val == 11 {
 		fmt.Println("Success")
 	} else {
 		fmt.Println("Failure")

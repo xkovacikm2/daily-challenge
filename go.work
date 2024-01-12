@@ -1,0 +1,6 @@
+go 1.21.6
+
+use (
+	"./2024-01-10 binary tree serialization"
+	"./2024-01-11 lowest missing positive"
+)
