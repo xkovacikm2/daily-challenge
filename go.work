@@ -5,4 +5,5 @@ use (
 	"./2024-01-11 lowest missing positive"
 	"./2024-01-12 first and last of pair"
 	"./2024-01-13 xor linked list"
+	"./2024-01-14 encoded message"
 )
